@@ -1,0 +1,6 @@
+<download name="glacier" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="147429" md5="943ab29dd8bcfccf9ee264bf55e3d20f"/>
+ </files>
+</download>
